@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabrielapu
-- 👀 I’m interested in VueJs and Django
-- 🌱 I’m currently learning VueJs and Django
-- 💞️ I’m looking to collaborate on VueJs and Django
+- 👀 I’m interested VueJs, Django, NodeJs, Firebase, MongoDB
+- 🌱 I’m currently learning VueJs, Django, NodeJs, Firebase, MongoDB
+- 💞️ I’m looking to collaborate VueJs, Django, NodeJs, Firebase, MongoDB
 - 📫 How to reach me: gabrielperalt95@gmail.com
 
 <!---
