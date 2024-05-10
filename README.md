@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Gabrielapu
-- 👀 I’m interested VueJs, Django, NodeJs, Firebase, MongoDB
-- 🌱 I’m currently learning VueJs, Django, NodeJs, Firebase, MongoDB
-- 💞️ I’m looking to collaborate VueJs, Django, NodeJs, Firebase, MongoDB
-- 📫 How to reach me: gabrielperalt95@gmail.com
+👋 Hi, I’m Gabriel
+
+I have been working for 3.5 years with VueJs 2 & 3, NuxtJS, GIT, CSS, HTML, TailwindCSS and some months with Angular 2+. 
+Also, I've produced responsive designs following Figma views created by designer.
+The tasks that I have been done are related to CRUDs, Maps with Leaflet library, Gantt chart.
+
+I love to make reausable code, clean code and work with DRY pattern.
 
 <!---
 Gabrielapu/Gabrielapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
